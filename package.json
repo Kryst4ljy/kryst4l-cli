@@ -1,0 +1,48 @@
+{
+  "_from": "kryst4l-cli",
+  "_id": "kryst4l-cli@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-hZh/uMPbTxbxHRM2QIL6A98ALSuDqWxGjVX4xQAVI/fWVqXq55xYsIjTZDPTmN1cietgrlEgypB+soiOai551Q==",
+  "_location": "/kryst4l-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "kryst4l-cli",
+    "name": "kryst4l-cli",
+    "escapedName": "kryst4l-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/kryst4l-cli/-/kryst4l-cli-1.0.1.tgz",
+  "_shasum": "8c33b64e2837b75ac263db11450dad397760c5b1",
+  "_spec": "kryst4l-cli",
+  "_where": "C:\\Users\\Administrator\\Desktop",
+  "author": {
+    "name": "kryst4l"
+  },
+  "bin": {
+    "KCLI": "bin/index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "commander": "^6.2.1",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.2.0"
+  },
+  "deprecated": false,
+  "description": "kryst4l-cli",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "kryst4l-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
